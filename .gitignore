@@ -1,0 +1,3 @@
+#ignorar carpetas de compilación de python_cache__
+__pycache__/
+*.pyc
